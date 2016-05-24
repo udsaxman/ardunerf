@@ -1,5 +1,4 @@
 //Arduino program to control a nerf blaster with brushless flywheels and a servo for feeding darts into the flywheels
-//LED is used for testing without having to hook up motors constantly
 //The pushbuttons im using in this example are OSEPP Push Button Modules  http://osepp.com/products/sensors-arduino-compatible/push-button-module/
 //Arduino controller used during this development is an Intel Curie powered Arduino 101 https://www.arduino.cc/en/Main/ArduinoBoard101 with an OSEPP SensorShield on top of it http://osepp.com/products/shield-arduino-compatible/sensor-shield/.  You will need to use OPTO ESCs and a seperate power feed for this setup!
 //Also tested wih an ATMEGA2560 based Multiwii Flight Controller i had laying around http://www.readytoflyquads.com/multiwii-pro-2-0-flight-controller.  To use this you will need to make sure one of your ESCs has a BEC built in.
